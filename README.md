@@ -20,7 +20,7 @@ It should not have to deal with components that make API requests or get data ot
 
 At least for validating the idea of creating and contributing this design system I'll need:
 
-- [ ] Boilerplate w/ Vite and new Storybook project
+- [x] Boilerplate w/ Vite and new Storybook project
 - [ ] Choose Design Tokens and add stories
 - [ ] Add a couple example components (atoms, molecules) with stories
 - [ ] Setup addons (test, docs, actions...)
